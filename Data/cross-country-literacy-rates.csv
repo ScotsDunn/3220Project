@@ -274,7 +274,7 @@ Cape Verde,CPV,2000,76.11044
 Cape Verde,CPV,2004,80.01972
 Cape Verde,CPV,2012,85.32779
 Cape Verde,CPV,2015,86.79029
-Cape Verde,CPV,2022,91
+Cabo Verde,CPV,2022,91
 Caribbean small states,,2000,88.1378
 Caribbean small states,,2010,91.76071
 Cayman Islands,CYM,2007,98.86782
@@ -425,7 +425,7 @@ Cote d'Ivoire,CIV,2000,48.74076
 Cote d'Ivoire,CIV,2012,40.98163
 Cote d'Ivoire,CIV,2014,43.90842
 Cote d'Ivoire,CIV,2015,43.26532
-Cote d'Ivoire,CIV,2019,89.89342
+Côte d'Ivoire,CIV,2019,89.89342
 Croatia,HRV,1991,96.70155
 Croatia,HRV,2001,98.14668
 Croatia,HRV,2011,99.12536
@@ -465,7 +465,7 @@ Democratic Republic of Congo,COD,2007,61.20555
 Democratic Republic of Congo,COD,2012,75.01719
 Democratic Republic of Congo,COD,2015,77.22167
 Democratic Republic of Congo,COD,2016,77.04268
-Democratic Republic of Congo,COD,2022,80.54
+Democratic Republic of the Congo,COD,2022,80.54
 Denmark,DNK,2003,99
 Djibouti,DJI,2003,67.9
 Dominica,DMA,2003,94
@@ -1513,7 +1513,7 @@ Palestine,PSE,2015,96.47712
 Palestine,PSE,2016,96.71919
 Palestine,PSE,2017,96.9244
 Palestine,PSE,2018,97.21861
-Palestine,PSE,2019,97.37826
+occupied Palestinian territory, including east Jerusalem,PSE,2019,97.37826
 Panama,PAN,1900,17
 Panama,PAN,1910,27
 Panama,PAN,1920,42
